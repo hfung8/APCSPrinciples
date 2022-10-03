@@ -58,8 +58,8 @@
 - 📝 **1.8 Defining Variables** : [Defining Variables](https://courses.projectstem.org/courses/67278/pages/1-dot-8-defining-variables?module_item_id=18709288)
 - 📝 **1.9 Applying Variables** : [Applying Variables](https://courses.projectstem.org/courses/67278/pages/1-dot-9-applying-variables?module_item_id=18709302)
 
-
-
+# More reading 📚 
+- [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)
 
     
     
