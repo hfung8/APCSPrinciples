@@ -59,6 +59,15 @@
 - 📝 **1.8 Defining Variables** : [Defining Variables](https://courses.projectstem.org/courses/67278/pages/1-dot-8-defining-variables?module_item_id=18709288)
 - 📝 **1.9 Applying Variables** : [Applying Variables](https://courses.projectstem.org/courses/67278/pages/1-dot-9-applying-variables?module_item_id=18709302)
 
+- Vocabulary
+  - Iteration: Doing something repeatedly. IE: for loops, while loops
+  - Algorithm: A series of steps that in the end gets a specific task done. 
+  - Variable: A placeholder or a container for a word, number etc. They can be used to store these values to be used later on in the code block.
+ 
+- Scratch   
+  - [Scratch Cheat Sheet](https://nanopdf.com/download/scratch-cheat_pdf)
+  - [Scratch Tips](https://scratch.mit.edu/help/studio/tips/home/)
+
 # More reading 📚 
 - [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)
 
