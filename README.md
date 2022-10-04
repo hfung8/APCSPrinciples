@@ -1,10 +1,10 @@
-# APCSPrinciples
+# AP_CS_Principles
 - 🏠 Class Repo <br>
 - 🍽️ Table of Contents <br>
 - [Project Stem](http://projectstem.org): Login with DOE credentials (IE: first initial + last name + number + @ students.net) or AFSE credentials <br>
 - [Scratch](https://scratch.mit.edu/): Login with either personal or afse credentials
 
-# How to get help?
+# How_to_get_help?
   - Partners System
 <pre>
 |---------------------------------|       |---------------------------------|  
@@ -48,7 +48,7 @@
 
 </pre>
 
-# Unit 1: Class Content <br>
+# Unit_1: Class_Content <br>
 - 📝 **1.1 The Iterative Development Process** : [Iterative Development Process](https://courses.projectstem.org/courses/67278/pages/1-dot-1-the-iterative-development-process?module_item_id=18709194)
 - 📝 **1.2 Algorithms** : [Algorithms](https://courses.projectstem.org/courses/67278/pages/1-dot-1-the-iterative-development-process?module_item_id=18709194)
 - 📝 **1.3 Languages** : [Languages](https://courses.projectstem.org/courses/67278/pages/1-dot-3-languages?module_item_id=18709219)
@@ -67,9 +67,11 @@
 - Scratch   
   - [Scratch Cheat Sheet](https://nanopdf.com/download/scratch-cheat_pdf)
   - [Scratch Tips](https://scratch.mit.edu/help/studio/tips/home/)
+  - [Coding Train](https://www.youtube.com/watch?v=3vedfD0UTlM) Youtube video for Scratch tips, tutorials 
+  - [Youtube Scratch Channel](https://www.youtube.com/c/ScratchTeam)
 
-# More reading 📚 
-- [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles)
+# More_reading 📚 
+- [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles) Resource for AP CS Principles Course
 
     
     
