@@ -2,7 +2,8 @@
 - 🏠 Class Repo <br>
 - 🍽️ Table of Contents <br>
 - [Project Stem](http://projectstem.org): Login with DOE credentials (IE: first initial + last name + number + @ students.net) or AFSE credentials <br>
-      
+- [Scratch](https://scratch.mit.edu/)
+
 # How to get help?
   - 🤯 Partners System
 <pre>
