@@ -1,7 +1,7 @@
 # APCSPrinciples
 - 🏠 Class Repo <br>
 - 🍽️ Table of Contents <br>
-- [Project Stem](http://projectstem.org): Login with DOE credentials (IE: first initial + last name + number + @ students.nyc.gov) or AFSE credentials <br>
+- [Project Stem](http://projectstem.org): Login with DOE credentials (IE: first initial + last name + number + @ students.net) or AFSE credentials <br>
       
 # How to get help?
   - 🤯 Partners System
