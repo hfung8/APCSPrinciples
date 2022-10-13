@@ -69,6 +69,7 @@
   - [Scratch Tips](https://scratch.mit.edu/help/studio/tips/home/)
   - [Coding Train](https://www.youtube.com/watch?v=3vedfD0UTlM) Youtube video for Scratch tips, tutorials 
   - [Youtube Scratch Channel](https://www.youtube.com/c/ScratchTeam)
+  - [Scratch:description of blocks](https://scratched.gse.harvard.edu/sites/default/files/a.all_blocks_of_scratch_0.pdf)
 
 # More_reading 📚 
 - [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles) Resource for AP CS Principles Course
