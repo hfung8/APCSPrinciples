@@ -63,7 +63,8 @@
   - **Iteration:** Repetition IE: to do something repeatedly. Think for loops, while loops
   - **Algorithm:** A series of steps that in the end gets a specific task done. It could be done in a format, descriptive qualifiers, imperative tense, numerical format.   
   - **Variable:** A placeholder or a container for a word, number etc. They can be used to store these values to be used later on in the code block. For Scratch, we need to make a variable to hold a value. 
- 
+  - **Abstraction** A way of making something easier. For example: Code can be abstracted by using functions to complete tasks. 
+  - **Ambiguous** Vague, not very clear. 
 - Scratch   
   - [Scratch Cheat Sheet](https://nanopdf.com/download/scratch-cheat_pdf)
   - [Scratch Tips](https://scratch.mit.edu/help/studio/tips/home/)
