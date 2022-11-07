@@ -6,24 +6,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AP CS Principles</title>
     <link href="style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,700,1,200" />
 </head>
 <header>
     <marquee direction="right">
     AP CS PRINCIPLES
     </marquee>
+    <div class="togglebar">
+        toggle on or off
+    <span onclick="myFunction(this)" class="material-symbols-outlined">toggle_on</span>
+    </div>
 </header>
-<nav class="dropdowns">
+<nav class="dropdowns" id="Topbar">
     <div id="left-nav">
         <ul> 
             <nav class="accordion">
-                <a class="nostyle">Home</a>
+                <a class="nostyle" href="./index.html">Home</a>
             </nav>
         </ul>
         <ul>
             <nav class="accordion">
-                <a class="title" href="./README.md.html">Unit 1</a>
-                <a href="#resourcesUnit1">Resources</a>
-                <a href="#vocabularyUnit1">Vocabulary</a>
+                <a class="title">Unit 1</a>
+                <a href="./public/unit1.html">Resources</a>
+                <a href="./public/vocab1.html">Vocabulary</a>
                 <a href="#tutorialsUnit1">Tutorials</a>
             </nav>
         </ul>
@@ -43,6 +48,19 @@
     </div>
 </nav>
 <body>
-    
+    <script>
+        function myFunction(x){
+            if (x.textContent == "toggle_on"){
+                x.textContent = "toggle_off";
+            } else if (x.textContent == "toggle_off") {
+                x.textContent = "toggle_on";
+            }
+            var element = document.body;
+            x.textContent == "toggle_off" ? element.classList = ("dark-mode"): element.classList = ("light-mode");
+        }
+
+
+    </script>
 </body>
+
 </html>

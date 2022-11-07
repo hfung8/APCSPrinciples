@@ -19,9 +19,17 @@
     src: url("./OperatorMono-LightItalic.otf") format("opentype")
 }
 
-
 body {
     font-family: 'OperatorMono-Bold';
+    background-color: #234E6D;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.light-mode {
     background-color: #234E6D;
 }
 
@@ -40,64 +48,75 @@ header {
 nav {
     display: flex;
     flex-direction: row;
-    }
-    
-    #left-nav {
-    display: flex;
-    justify-content: flex-start;
-    flex-direction: row;
-    font-family: 'OperatorMono-LightItalic'
-    }
-    
-    a.nostyle::after {
-        content: none !important;
-    }
-    
-    nav.dropdowns a.icon {
-    display: none;
-    }
-    
-    nav.dropdowns a {
-    font-size: 25px;
-    position: relative;
-    display: inline-block;
-    width: 150px;
-    background-color: #ff628c;
-    color: white;
-    padding: 5px;
-    text-align: center;
-    text-decoration: none;
-    margin: auto;
-    top: 25px;
-    }
-    
-    nav.dropdowns a[href]:hover {
-    background-color: p#ff628c;
-    color: white;
-    }
-    
-    nav.dropdowns nav {
-    display: inline-block;
-    margin-right: 10px;
-    width: 150px;
-    vertical-align: top;
-    }
-    
-    nav.dropdowns nav a:first-of-type {
-    cursor: default;
-    }
-    
-    nav.dropdowns nav a:first-of-type:after {
-    content: "▾";
-    vertical-align: top;
-    }
-    
-    nav.dropdowns nav a:not(:first-of-type) {
-    text-align: left;
-    display: none;
-    }
-    
-    nav.dropdowns nav:hover a:not(:first-of-type) {
-    display: block;
-    }
+}
 
+nav#Topbar.dropdowns {
+    height: 110px;
+    width: 100%;
+    top: 0;
+}
+
+#left-nav {
+display: flex;
+justify-content: flex-start;
+flex-direction: row;
+font-family: 'OperatorMono-LightItalic'
+}
+    
+a.nostyle::after {
+    content: none !important;
+}
+
+nav.dropdowns a.icon {
+display: none;
+}
+
+nav.dropdowns a {
+font-size: 25px;
+position: relative;
+display: inline-block;
+width: 150px;
+background-color: #ff628c;
+color: white;
+padding: 5px;
+text-align: center;
+text-decoration: none;
+margin: auto;
+top: 25px;
+}
+
+nav.dropdowns a[href]:hover {
+background-color: p#ff628c;
+color: white;
+}
+
+nav.dropdowns nav {
+display: inline-block;
+margin-right: 10px;
+width: 150px;
+vertical-align: top;
+}
+
+nav.dropdowns nav a:first-of-type {
+cursor: default;
+}
+    
+nav.dropdowns nav a:first-of-type:after {
+content: "▾";
+vertical-align: top;
+}
+    
+nav.dropdowns nav a:not(:first-of-type) {
+text-align: left;
+display: none;
+}
+    
+nav.dropdowns nav:hover a:not(:first-of-type) {
+display: block;
+}
+
+.togglebar {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
