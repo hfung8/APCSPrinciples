@@ -120,3 +120,18 @@ display: block;
     justify-content: center; 
     align-items: center;
 }
+
+.carousel {
+    width: 250px; 
+    height: auto; 
+}
+
+#carouselExampleFade {
+    top: 100px;
+}
+
+.container {
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
